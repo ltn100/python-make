@@ -24,4 +24,14 @@ Installation
     # run all the make commands!
 
 
+Acknowledgements
+----------------
+
+This project was inspired by various works, not least C. Titus Brown and Alexandra Pawlik's
+[guide to Python packages and installs](http://2013-norwich-bioinfo.readthedocs.org/en/latest/session3-install.html#building-a-default-basic-makefile),
+and [Eric Blake](https://www.redhat.com/archives/libvir-list/2014-June/msg00841.html), a
+contributor to the [libvert-python](http://libvirt.org/python.html) project, which uses a
+[similar shim](http://libvirt.org/git/?p=libvirt-python.git;a=blob;f=Makefile;h=6c8da0a8763a59f5e18fb0fcf726676407eb8d95;hb=HEAD).
+
+
 \* I am aware that GNU make is not the only flavour of make!
