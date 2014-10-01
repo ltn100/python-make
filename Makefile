@@ -3,7 +3,7 @@
 # ===========                                       #
 #                                                   #
 # This is a simple Makefile wrapper to map 'make'   #
-# ulility commands to python '$(SETUP)' commands.   #
+# ulility commands to python 'setup.py' commands.   #
 # So you can, for example, use commands like this   #
 # from the command line:                            #
 #                                                   #
