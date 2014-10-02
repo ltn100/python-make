@@ -29,11 +29,11 @@ Targets
 
 python-make currently supports the following targets:
 
-* ` ` (no target - alias to `build`)
-* `all` (alias to `build`)
+* ` ` (no target - alias of `build`)
+* `all` (alias of `build`)
 * `build`
 * `bdist`
-* `check` (alias to `test`)
+* `check` (alias of `test`)
 * `clean`
 * `install`
 * `rpm`
