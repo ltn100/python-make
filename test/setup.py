@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # vim:set softtabstop=4 shiftwidth=4 tabstop=4 expandtab:
 
-from distutils.core import setup
+from setuptools import setup
 
 
 setup(name='test-python-make',
@@ -13,7 +13,8 @@ setup(name='test-python-make',
     url='https://github.com/ltn100/python-make',
     license='MIT licence, see LICENCE',
 
-    packages=['test-python-make'],
+    packages=['project'],
 
+    test_suite="project.tests",
 )
 

@@ -12,6 +12,7 @@ script:
     - make
     - make sdist
     - make bdist
+    - make check
     - make clean
 
 branches:
